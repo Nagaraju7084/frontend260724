@@ -1,0 +1,1 @@
+creating side bar and sign up user page with react form
